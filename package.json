@@ -1,0 +1,55 @@
+{
+  "name": "cordova-res-generator-all",
+  "version": "0.5.0",
+  "author": {
+    "name": "Olivab",
+    "email": "olivabdev@gmail.com"
+  },
+  "bin": {
+    "crgen": "./bin/crgen",
+    "cordova-res-generator": "./bin/cordova-res-generator"
+  },
+  "bugs": {
+    "url": "https://github.com/olivab/cordova-res-generator/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Olivab",
+      "email": "olivabdev@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "colors": "^1.1.2",
+    "commander": "^2.12.2",
+    "fs-extra": "^4.0.2",
+    "gauge": "^2.7.4",
+    "jimp": "^0.2.28",
+    "lodash": "^4.17.4"
+  },
+  "deprecated": false,
+  "description": "Generates icon & splash screen for cordova/ionic projects using javascript only.",
+  "homepage": "https://github.com/olivab/cordova-res-generator",
+  "keywords": [
+    "cordova",
+    "ionic",
+    "phonegap",
+    "icon",
+    "splash",
+    "splashscreen",
+    "generator",
+    "cli",
+    "tool"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olivab/cordova-res-generator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
