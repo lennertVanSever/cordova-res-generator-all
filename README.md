@@ -1,4 +1,4 @@
-# cordova-res-generator
+# cordova-res-generator-all
 
 ## Introduction
 
@@ -12,7 +12,7 @@ It does **NOT require** any external binary libraries. **Javascript only**.
 
 ## Installation
 
-    $ npm install cordova-res-generator -g
+```npm install cordova-res-generator-all -g```
 
 ---
 
